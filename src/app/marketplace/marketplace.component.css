@@ -1,0 +1,20 @@
+h2 {
+  color: white;
+  text-shadow: 5px 5px 5px pink;
+}
+.panel-body h3 em {
+  color: cornflowerblue;
+  cursor: pointer;
+}
+
+.panel-body h3 {
+  cursor: pointer;
+}
+
+.panel-body {
+  cursor: pointer;
+}
+
+.panel-body h3 strong {
+  color: purple;
+}
